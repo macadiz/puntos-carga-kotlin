@@ -1,0 +1,1 @@
+data class RegistroVehiculo(val vehiculo: Vehiculo, val total: Double, val tiempoCarga: Long) { }

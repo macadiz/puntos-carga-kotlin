@@ -1,0 +1,3 @@
+enum class TIPO_CLIENTE {
+    OCASIONAL, SOCIO, ADULTO_MAYOR
+}
